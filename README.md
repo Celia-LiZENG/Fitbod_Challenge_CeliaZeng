@@ -6,7 +6,7 @@
 (2) ob_perform.csv: data transformed from original fitbud_rawData, using pipeline functions from EDA part. In fact, any workout histroy data can be transformed into this one. This can be seen as part of users' fitness portrait data (transformed from bahavior data).
 
 # Part1: EDA Analysis (Y: 1 if churn, 0 if stay at Fitbod)
-(1) Since i have no data description about columns, I will firstly understand the data columns with some simple analysis and my usage of Fitbod Apll;
+(1) Since i have no data description about columns, I will firstly understand the data columns with some simple analysis and my usage of Fitbod App;
 
 (2) summary statistics, daily/montly active user analysis; 
 
@@ -27,7 +27,7 @@
 
 
 # Part3: Display ML Models and Visulizations via Streamlit
-  Here I used Streamlit to display my model. This is an interaction web which was simply based on the re-written Python code from Part2. I prefer to use this one as it can show how the churn prediction will change when different data attributes change. 
+  Here I used Streamlit to display my model. This is an interaction web which was simply based on the re-written Python code from Part2. I prefer to use this one as it is python based and can show how the churn prediction will change when different data attributes change. This makes ML easily undstood! 
  ![Alt text](https://github.com/Celia-LiZENG/Fitbod_Challenge_CeliaZeng/blob/master/stream_demo1.png)
  
  ![Alt text](https://github.com/Celia-LiZENG/Fitbod_Challenge_CeliaZeng/blob/master/stream_demo3.png)
