@@ -33,10 +33,8 @@
   pip install streamlit
   streamlit
   streamlit run /Users/celiahah/Desktop/Fitbod_17_Aug_LiZENG_Celia/fitbod_interactive_display.py  (⚠️ change the path according to your setting)
-  😊 Display Effects
-  
-  
-  ![](https://pic4.zhimg.com/80/v2-b352b9be91b8ffc2ad283db9f9d9b8e1_hd.jpg)
+  😊 Display Effects (Can see from YouTube I uploaded)
+  https://www.youtube.com/watch?v=MDn-dy7uB5U&list=TLPQMTcwODIwMjCLklPtoOuEpw&index=2
   
   
 # Part4: Limitations
