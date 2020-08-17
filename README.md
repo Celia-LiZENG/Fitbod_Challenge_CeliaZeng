@@ -17,7 +17,7 @@
 (5) Inspirations from EDA to build the ML model
 
 # Part2: Build Churn Machine Learning Models
-![Alt text](https://github.com/Celia-LiZENG/Fitbod_Challenge_CeliaZeng/blob/master/Churn%20Model%20Explanation.png)
+![Model Flow Display](https://github.com/Celia-LiZENG/Fitbod_Challenge_CeliaZeng/blob/master/Churn%20Model%20Explanation.png)
 
 (1) Choose 3 algorithms (can try more but here I only pick 3)
 
