@@ -27,12 +27,16 @@
   Here I used Streamlit to display my model. This is an interaction web which was simply based on the re-written Python code from Part2. I prefer to use this one as it can show how the churn prediction will change when different data attributes change.
   
   🔥 Application: Product analysts and data scientist in Fitbod in can easily use it to get the churn prediction for particular user and also compare different models!
+  
   ❓ How to play arround it:
+  
   (1) Download 'streamlit_display_files.zip' in this repository
+  
   (2) Open Streamlit in Terminal
   pip install streamlit
   streamlit
   streamlit run /Users/celiahah/Desktop/Fitbod_17_Aug_LiZENG_Celia/fitbod_interactive_display.py  (⚠️ change the path according to your setting)
+  
   😊 Display Effects (Can see from YouTube I uploaded)
   https://www.youtube.com/watch?v=MDn-dy7uB5U&list=TLPQMTcwODIwMjCLklPtoOuEpw&index=2
   
