@@ -42,5 +42,5 @@
   
   
 # Part4: Limitations
-  In the later presentation, I will talk about my EDA analysis, ML models using PPT and Streamlit! I will also talk about how we can extend this data to gain more insights and achieve more functions. It is my great pelasure to explore more and study in Fitbod!
+  In the later presentation, I will talk about my EDA analysis, ML models using PPT and Streamlit! I will also talk about how we can extend this data to gain more insights and achieve more functions. It is my great pelasure to explore more and study with Fitbod!
 
