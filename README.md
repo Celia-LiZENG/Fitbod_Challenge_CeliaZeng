@@ -41,6 +41,6 @@
   https://www.youtube.com/watch?v=MDn-dy7uB5U&list=TLPQMTcwODIwMjCLklPtoOuEpw&index=2
   
   
-# Part4: Limitations
+# Part4: Additional Thoughts
   In the later presentation, I will talk about my EDA analysis, ML models using PPT and Streamlit! I will also talk about how we can extend this data to gain more insights and achieve more functions. It is my great pelasure to explore more and study with Fitbod!
 
