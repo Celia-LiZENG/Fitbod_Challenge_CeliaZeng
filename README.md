@@ -5,7 +5,7 @@
 
 (2) ob_perform.csv: data transformed from original fitbud_rawData, using pipeline functions from EDA part. In fact, any workout histroy data can be transformed into this one. This can be seen as part of users' fitness portrait data (transformed from bahavior data).
 
-# Part1: EDA Analysis (Y: 1 if churn, 0 if stay at Fitbud)
+# Part1: EDA Analysis (Y: 1 if churn, 0 if stay at Fitbod)
 (1) Since i have no data description about columns, I will firstly understand the data columns with some simple analysis and my usage of Fitbod Apll;
 
 (2) summary statistics, daily/montly active user analysis; 
@@ -29,5 +29,5 @@
   🔥 Application: Product analysts and data scientist in Fitbod in can easily use it to get the churn prediction for particular user and also compare different models!
   
 # Part4: Limitations
-  In the later presentation, I will talk about my EDA analysis, ML models using PPT and Streamlit! I will also talk about how we can extend this data to gain more insights and achieve more functions. It is my great pelasure to explore more and study in Fitbud!
+  In the later presentation, I will talk about my EDA analysis, ML models using PPT and Streamlit! I will also talk about how we can extend this data to gain more insights and achieve more functions. It is my great pelasure to explore more and study in Fitbod!
 
