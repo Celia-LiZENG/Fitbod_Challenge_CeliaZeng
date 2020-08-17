@@ -17,11 +17,14 @@
 (5) Inspirations from EDA to build the ML model
 
 # Part2: Build Churn Machine Learning Models
+![Alt text](https://github.com/Celia-LiZENG/Fitbod_Challenge_CeliaZeng/blob/master/Churn%20Model%20Explanation.png)
+
 (1) Choose 3 algorithms (can try more but here I only pick 3)
 
 (2) Use grid search to find the best parameters
 
 (3) Performance comparison
+
 
 # Part3: Display ML Models and Visulizations via Streamlit
   Here I used Streamlit to display my model. This is an interaction web which was simply based on the re-written Python code from Part2. I prefer to use this one as it can show how the churn prediction will change when different data attributes change. 
